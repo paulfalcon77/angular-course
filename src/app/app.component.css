@@ -1,0 +1,30 @@
+.style {
+  width: 100%;
+  margin: auto;
+}
+
+input.demo {
+  border: 2px solid black;
+  width: 300px;
+  height: 30px;
+  font-size: 25px;
+}
+button.btn {
+  border: 2px solid black;
+  width: 300px;
+  height: 30px;
+}
+
+.top-menu {
+  background: #1976d2;
+  padding: 2px 15px;
+}
+
+.logo {
+  max-height: 55px;
+}
+
+.courses {
+  max-width: 400px;
+  margin: 50px auto;
+}
